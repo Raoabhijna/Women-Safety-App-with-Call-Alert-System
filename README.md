@@ -5,13 +5,6 @@
 Women Safety App is user friendly application built in Android Studio,
 it is simple to implement,easy to understand.
 
-Demo Download App : [Click Here](https://diplomagraduate.blogspot.com/2021/08/women-safety-applicatino-in-android.html)
-
-[<img src="media/womenSafety.png" />](https://t.me/vinayak_09)
-
-
-
-
 
 ## Features
 
@@ -20,6 +13,7 @@ Demo Download App : [Click Here](https://diplomagraduate.blogspot.com/2021/08/wo
 - Shake detector
 - Shake device to send SOS to registered mobile
 - Sends Last Known Location to registered mobile
+- Makes Call to your parents/Guardians 
 
 #### Prerequisites :
 - Android Studio
@@ -37,9 +31,6 @@ Hit Run Button !
 ```
 
 ------------
-
-Full Project demonstration Youtube :<br>
-Link - https://youtu.be/E0WLnlkPDJY
 
 **Free Software, Hell Yeah!**
 
